@@ -1,0 +1,4 @@
+24398, Ezza Abdullah, Askari 10, 520105043723, ezza2004, Ezza2004, 79750,  250, Bronze, 0
+24607, Meesum Ali Moazzam, Askari 11, 520105043726, meesum2005, Meesum2005, 75250,  0, Bronze, 0
+25789, Usman Faisal, Faisal Town, 520105043725, usman2000, Usman2000, 0,  0, Gold, 0
+25790, Momin Shehzad Butt, Allama Iqbal Town, 520105043727, momin2004, Momin2004, 0,  0, Gold, 0
